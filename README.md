@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQFBUizn74WBDg/profile-displayphoto-shrink_400_400/0/1704121459332?e=2147483647&v=beta&t=AdiBFTLp3pVTSQpWhEgkHRF9otXKOb5CuEhqmDGfd0g" heigght="150px" width="100px"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/D5635AQEFDee9LGds5Q/profile-framedphoto-shrink_400_400/0/1715519741084?e=1716127200&v=beta&t=5TwDNaXrKXEcTpalsA-1nKhi8j2eg07iWgleSGylg1I" height="150px" width="100px"  />
 
 ###
 
