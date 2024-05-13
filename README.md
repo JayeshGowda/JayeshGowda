@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">Hello World! I am an individual who is currently writing this summary while also being deeply interested in Software Development and Machine Learning. My passion for these fields has motivated me to explore and expand my knowledge and skills in creating engaging and user-friendly online experiences.</p>
+<p align="left">Hello World! I am an individual who is currently writing this summary while also being deeply interested in Software Development and Machine Learning. My passion for these fields has motivated me to explore and expand my knowledge and skills in creating engaging and user-friendly online experiences. For more visit my portfolio website : https://jayeshgowda.github.io/JayeshGowda-Portfolio/</p>
 
 ###
 
