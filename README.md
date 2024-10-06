@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Jayesh Gowda and I'm a Software Developer Intern.</h1>
+<h1 align="left">Hi 👋! My name is Jayesh Gowda and I'm a Software Developer.</h1>
 
 ###
 
